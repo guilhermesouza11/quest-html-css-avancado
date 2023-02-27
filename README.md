@@ -1,12 +1,10 @@
-# <p align="center"> NLW Setup - Explorer 🏃 </p>
+# <p align="center"> Quest DevQuest - HTML e CSS advanced </p>
 
 
 
-## Descrição ✏️
+## Description ✏️
 
-Este é um projeto desenvolvido na semana do NLW Setup, junto com a galera da Rocketseat, a trilha que eu escolhi, foi a Explorer, justamente pra aprender o básico sobre o Javascript.
-
-O projeto consiste em organizar a rotina, o que deve ser feito e o que foi feito naquele dia. 
+Development of the devquest course activity, involving advanced HTML and CSS concepts.
 
 <p align="center">
     <img alt="projeto Habits" src="./.github/preview.jpg">
@@ -16,13 +14,13 @@ O projeto consiste em organizar a rotina, o que deve ser feito e o que foi feito
 
 ## Status ✅
 
-Concluído.
+Concluded.
 
 <br>
 
-## Tecnologias utilizadas ⌨️
+## Technologies used ⌨️
 
-Esse projeto foi desenvolvido a partir das tecnologias:
+This project was developed from the technologies:
 - HTML e CSS;
 - Javascript
 - Git e Github
@@ -30,21 +28,21 @@ Esse projeto foi desenvolvido a partir das tecnologias:
 
 <br>
 
-## Pré-requisitos 🖊️
+## Requirements 🖊️
 
-- Navegador que suporte as mais atuais funcionalidades do ECMAScript 6;
-- Para visualização do código, é necessário um editor código como <a href="https://code.visualstudio.com/">VSCode</a>.
-
-<br>
-
-## Executar o projeto 💻
-
-Você poderar executar o projeto clicando no <strong>index.html</strong>, ou pode também executar ele a partir do VSCode, pressionando as teclas <strong>ALT + L + O</strong>.
+- Browser that supports the latest features of ECMAScript 6;
+- To view the code, you need a code editor such as <a href="https://code.visualstudio.com/">VSCode</a>.
 
 <br>
 
-### Contato com Autor 📩
+## Run the project 💻
 
-Feito com ❤️ por Guilherme 👋🏽 Entre em contato!
+You can run the project by clicking on the <strong>index.html</strong> file, or you can also run it from VSCode by pressing the keys <strong>ALT + L + O.</strong>
+
+<br>
+
+### Contact the Author 📩
+
+Made with ❤️ by Guilherme 👋🏽 Contact me!
 
 [![Instagram Badge](https://img.shields.io/badge/@nastyboygui-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nastyboygui/)](https://www.instagram.com/nastyboygui/) [![Gmail Badge](https://img.shields.io/badge/guilhermesouzadossantos11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guilhermesouzadossantos11@gmail.com)](mailto:guilhermesouzadossantos11@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/Guilherme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermesouzadossantos/)](https://www.linkedin.com/in/guilhermesouzadossantos/) 
