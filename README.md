@@ -7,7 +7,7 @@
 Development of the devquest course activity, involving advanced HTML and CSS concepts.
 
 <p align="center">
-    <img alt="projeto Habits" src="./src/design/desktop-preview.jpg">
+    <img alt="projeto Habits" src="./src/design/desktop-design.jpg">
 </p>
 
 <br>
